@@ -1,0 +1,11 @@
+/home/burba_av/LAB02/LAB02/bin/Debug/net10.0/LAB02.deps.json
+/home/burba_av/LAB02/LAB02/bin/Debug/net10.0/LAB02.dll
+/home/burba_av/LAB02/LAB02/bin/Debug/net10.0/LAB02.pdb
+/home/burba_av/LAB02/LAB02/obj/Debug/net10.0/LAB02.GeneratedMSBuildEditorConfig.editorconfig
+/home/burba_av/LAB02/LAB02/obj/Debug/net10.0/LAB02.AssemblyInfoInputs.cache
+/home/burba_av/LAB02/LAB02/obj/Debug/net10.0/LAB02.AssemblyInfo.cs
+/home/burba_av/LAB02/LAB02/obj/Debug/net10.0/LAB02.csproj.CoreCompileInputs.cache
+/home/burba_av/LAB02/LAB02/obj/Debug/net10.0/LAB02.dll
+/home/burba_av/LAB02/LAB02/obj/Debug/net10.0/refint/LAB02.dll
+/home/burba_av/LAB02/LAB02/obj/Debug/net10.0/LAB02.pdb
+/home/burba_av/LAB02/LAB02/obj/Debug/net10.0/ref/LAB02.dll
